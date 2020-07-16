@@ -7,6 +7,8 @@
 <!--
 **helikson/helikson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Link ajuda = https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
