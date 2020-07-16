@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+- 🌱 I’m currently learning Java
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/helikson/)
+
 <!--
 **helikson/helikson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
