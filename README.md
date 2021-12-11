@@ -1,7 +1,7 @@
 ## Olá 👋
 FullStack Developer :computer:
 
-⌨️ &nbsp; Atualmente estudando Java, Flutter e me aprimorando em React
+<!--⌨️ &nbsp; Atualmente estudando Java, Flutter e me aprimorando em React-->
 <br/> 💬 &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-helikson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helikson/)](https://www.linkedin.com/in/helikson/)
 
 <!--
