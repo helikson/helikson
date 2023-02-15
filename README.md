@@ -1,8 +1,10 @@
 ## Olá 👋
-FullStack Developer :computer:
+Tech Lead Software Engineer :computer:
 
 <!--⌨️ &nbsp; Atualmente estudando Java, Flutter e me aprimorando em React-->
-<br/> 💬 &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-helikson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helikson/)](https://www.linkedin.com/in/helikson/)
+<br/> 💬 &nbsp; Entre em contato comigo:
+
+[![Linkedin Badge](https://img.shields.io/badge/-helikson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helikson/)](https://www.linkedin.com/in/helikson/)
 
 <!--
       :rocket:  &nbsp; Estou trabalhando na **Rocketseat**
