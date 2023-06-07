@@ -1,5 +1,5 @@
 ## Olá 👋
-Tech Lead Software Engineer :computer:
+Software Engineer :computer:
 
 <!--⌨️ &nbsp; Atualmente estudando Java, Flutter e me aprimorando em React-->
 <br/> 💬 &nbsp; Entre em contato comigo:
